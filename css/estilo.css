@@ -1,0 +1,68 @@
+body{
+    font-family:'Gill Sans';
+    font-size: 20px;
+    color:white;
+    margin-right:auto;
+    margin-left: auto;
+    width: 1178px;
+    background-image: url(../img/back2.jpg);
+    background-attachment: fixed;
+    opacity: 1;
+}
+
+#logo{
+    text-align: center;
+    margin-right:auto;
+    margin-left: auto;
+    padding: 25px;
+    background-color: #a1d60e3f;
+    border-radius: 22px;
+}
+
+ h1{
+    text-align:center;
+    padding: 25px;
+    background-color: rgba(0, 255, 34, 0.247);
+    border-radius: 22px;
+    font-size: 55px;
+}
+
+#centro-distribuicao{
+    text-align: center;
+}
+
+#historia{
+    text-align:center;
+    padding: 25px;
+    background-color:rgba(0, 66, 349, 0.247);
+    border-radius: 22px;
+    font-size: 44px;
+}
+
+#familia-pelho{
+    float: right;
+    box-shadow: 5px 12px rgba(0, 66, 349, 0.247);;
+    margin: 0 0 10px 10px;
+    border-radius: 12px;
+    box-shadow: 0px 12px 15px rgba(0, 66, 349, 0.247);
+}
+
+#diferenciais{
+    text-align:center;
+    padding: 25px;
+    background-color: #d120209f;
+    border-radius: 22px;
+    font-size: 44px;
+}
+
+footer{
+    text-align: left;
+    margin-right:auto;
+    margin-left: auto;
+    padding: 25px;
+    background-color: #a1d60e3f;
+    border-radius: 22px;
+}
+
+
+
